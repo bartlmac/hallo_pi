@@ -1,5 +1,5 @@
 def begruessung(name):
-    return f"Hallo {name}, willkommen bei GitHub und in einer besseren Umgebung auf dem Raspberry Pi!"
+    return f"Hallo vom iPad, {name}. Ich wurde mobil bearbeitet!"
 
 if __name__ == "__main__":
     print(begruessung("Bartłomiej"))
